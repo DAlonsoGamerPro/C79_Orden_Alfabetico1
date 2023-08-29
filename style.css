@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(15, 15, 15);
+    color: white;
+    text-align: center;
+}
+
+#Presentacion{
+    border-radius: 20px;
+    border-color: rgb(245, 24, 98);
+    text-align: center;
+}
+input {
+    margin: 40px;
+}
+#Botton_Enviar{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+#Botton_Ordenar_Alfabeticamente{
+    display: none;
+}
